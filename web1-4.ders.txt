@@ -1,0 +1,34 @@
+
+
+
+WEB 1 --- 4.DERS 
+12.10.19
+---------------------------------------------
+
+
+# edit - fill - seçtiðin kýsmýn rengini deðiþtirebilyoruz. (contentten yaparsak )
+
+# lasso toolu seçip bi bölgeyi seçtiðimizde sonra edit fill content yaparsak seçtiðimiz
+ bölge kaybolur etraftaki içerikle saðdan soldan alýp orayý tamamlar yani rötüþ yapar..
+
+# bölgeyi seçip editten define patterni seçersek orayý pattern olarak tanýmlamýþ oluyoruz ama bu
+
+# select - inverse --> seçimi ters çeviriyor
+
+# shifte basarak seçimin boyutuyla oynarsak oran bozulmadan deðiþtirmiþ oluruz 
+
+# edit transform warp --> istediðin gibi eðip bükebiliyosun özellikle giydirme iþlemlerinde çopk baþarýlý 
+
+# bir resmi kopyalayýp yeni bir sayfa açarken kopyaladýðýmýz resmin boyutuyla gelir
+
+# resmi geniþlik veya yükseklik olarak deðiþtireceksek ve oran bozuluyorsa ediiten content aware scale seçilir
+ ve ana nesne boozulmaz farklý yerlerden büyütme küçültme yapar bu yüzden fotoðrafta görülür bi bozulma olmaz
+(insanlarda ten rengine dikkat eder)
+
+# insan figürü : insana daha çok dikkat ediyor daha az bozulma oluyor
+
+# seçtiðin alaný select-save selection yaparsak bu alaný kaydediyor sonra seçiden çýkýp edit - content aware scale
+ yaparsak ve protectten seçtiðimiz kaydettiðimiz nesneyi iþaretleyip ve insan figürünü de seçerek büyütme küçültme
+ yaparsak tüm o seçilen yerlere dikkat ederek en az bozulmayla deðiþtirmiþ oluruz boyutunu.
+
+# seçim yapýp üstüne sað týk feather'ý seç ok ve delete --> daha güzel geçiþler yaparak iki fotoðrafý birbirine harmanlamýþ oluyor
