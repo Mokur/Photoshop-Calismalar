@@ -1,0 +1,42 @@
+
+
+
+
+WEB 1  ----  5.DERS
+13.10.19
+--------------------------------
+
+## buton yapma: elips çiz, gradient tool foreground ve back rengi seç rengi ver, select - modify - contract  keskin bir geçiş olur
+yumuşak bir geçiş için feather'ı seçeriz (bir ters bir düz çekiyosun gradienti)
+
+## move aracında auto select seçili olmazsa sadece hangi layer üzerindeyse o hareket ettirilebilir diğerleri oynamaz
+
+## hangi layer üstteyse o en üstte görünür
+
+## layera ctrl tuşu basılıyken basarsak o layerın içindeki nesneler seçili hale gelir.
+
+## bir layer üzerindeyken ctrl ile basarsan ve sonra farklı bir layera tıklarsan ctrl+c ile kopyaladığımızda 
+önceki layerın şekliyle son tıkladığımız layerdaki yer kopyalanmış olur
+
+## hangi layerdaysan orda çalışırsın
+
+## bir layera basarken alt tuşuna basılı tutarsa sürükleyip istediğin kadar kopya çıkartabilyosun
+
+## ctrl+t shift+alt yaparak büyütüp küçültürsek merkeze doğru her yerden aynı anda küçültme büyütme yapar
+
+## layerdan ctrl ile tıklayıp seçim yaparsak ve seçili martıyı alt ile basarak çekersek kopya aynı layerda üretilir farklı layer üretilmez
+
+## filter - blur - gaussian blur ile gölge yapabilirsin 
+
+## vidobu'ya kaydol!!!
+
+## move aracındayken yön tuşlarıyla 1 pixellik oynamalar yapabiliyoruz
+aynı zamanda shifte basılı tutarsak 10 pixellik hareket ettirir
+
+## her nesne için aynı layer açmayı unutma
+
+## layerları birleştirme: seç ve ctrl+E yap
+
+## issuu.com  --> tasarım örnekleri
+
+## 
